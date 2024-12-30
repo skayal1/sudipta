@@ -234,6 +234,7 @@ header{
     margin:0px;
    
 }
-
+.row{flex-direction: column-reverse;}
+#hero{width: 50vw;}
 
 }
